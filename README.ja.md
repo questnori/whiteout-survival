@@ -1,16 +1,19 @@
-<div align="center">
-
-# Questnori · Whiteout Survival
-
-### 端末が変わっても、冒険は続く。
-
-必要なチュートリアルを進めて、いつものアカウントのログイン画面へ。
-
-</div>
+![Questnori — New device. Same adventure.](questnori-cover.svg)
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md)
 
 ---
+
+## チュートリアルから、ログイン画面へ
+
+<table>
+<tr><th>01 · 必要なチュートリアルを進める</th><th>02 · 元のアカウントでログインする</th></tr>
+<tr><td align="center"><img src="tutorial-screen.png" alt="必要なチュートリアルを進める" width="280" /></td><td align="center"><img src="signin-screen.png" alt="元のアカウントでログインする" width="280" /></td></tr>
+</table>
+
+<sub>実際のゲーム画面です。スキルはログイン画面で停止し、その先はプレイヤーが操作します。</sub>
+
+![Profile → Settings → Account → Change Account](login-route.svg)
 
 ## ログインしたいだけなのに、また木を切るところから？
 

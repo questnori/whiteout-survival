@@ -1,16 +1,19 @@
-<div align="center">
-
-# 游诺（Questnori）· 无尽冬日（Whiteout Survival）
-
-### 换了设备，冒险不用从头开始。
-
-走过必要的新手引导，找到原账号的登录入口。
-
-</div>
+![Questnori — New device. Same adventure.](questnori-cover.svg)
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md)
 
 ---
+
+## 从新手引导，到账号登录
+
+<table>
+<tr><th>01 · 完成必要的新手操作</th><th>02 · 选择原账号的登录方式</th></tr>
+<tr><td align="center"><img src="tutorial-screen.png" alt="完成必要的新手操作" width="280" /></td><td align="center"><img src="signin-screen.png" alt="选择原账号的登录方式" width="280" /></td></tr>
+</table>
+
+<sub>真实游戏画面。技能在登录入口停止，后续登录由你完成。</sub>
+
+![Profile → Settings → Account → Change Account](login-route.svg)
 
 ## 只是想登录，却又开始砍树了？
 

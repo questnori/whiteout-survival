@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" role="img" aria-label="Questnori. New device. Same adventure.">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071523"/><stop offset="1" stop-color="#163f59"/></linearGradient><linearGradient id="ice" x2="0" y2="1"><stop stop-color="#a9f3ed"/><stop offset="1" stop-color="#397f9c"/></linearGradient></defs>
+<rect width="1280" height="480" rx="24" fill="url(#bg)"/>
+<circle cx="1060" cy="145" r="172" fill="#72dfde" opacity=".05"/><circle cx="1060" cy="145" r="120" fill="none" stroke="#76dedb" opacity=".15"/>
+<path d="M760 480 937 190 1025 334 1113 215 1280 480Z" fill="#204b64"/><path d="m937 190-65 107 51-25 25 33 31-47Z" fill="#a6cbd5"/><path d="m1113 215-43 69 35-15 21 23 27-17Z" fill="#9fc4ce"/><path d="M690 480 840 330 949 439 1056 350 1190 480" fill="#0c253a"/>
+<g transform="translate(72 60)"><path d="M24 0 48 14v28L24 56 0 42V14Z" fill="none" stroke="#7aeee1" stroke-width="3"/><path d="m14 22 10-6 10 6v12l-10 6-10-6Zm15 13 12 12" fill="none" stroke="#7aeee1" stroke-width="3"/><text x="68" y="36" font-family="Arial,sans-serif" font-size="30" font-weight="700" letter-spacing="3" fill="#eff9fb">QUESTNORI</text></g>
+<text x="74" y="169" font-family="Arial,sans-serif" font-size="15" letter-spacing="4" fill="#80ddd9">WHITEOUT SURVIVAL</text>
+<text x="68" y="244" font-family="Arial,sans-serif" font-size="65" font-weight="700" fill="#f5fbff">New device.</text><text x="68" y="318" font-family="Arial,sans-serif" font-size="65" font-weight="700" fill="#9aeadd">Same adventure.</text>
+<text x="74" y="369" font-family="Arial,sans-serif" font-size="20" fill="#b6cfdb">A shorter path from tutorial to sign-in.</text>
+<rect x="74" y="410" width="134" height="30" rx="15" fill="#7aeee1"/><text x="141" y="430" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#0a2534">QUICK SIGN-IN</text>
+<text x="228" y="430" font-family="Arial,sans-serif" font-size="12" letter-spacing="2" fill="#b6cfdb">MACOS · CODEX SKILL</text>
+<g fill="#dcfaff" opacity=".55"><circle cx="875" cy="90" r="2"/><circle cx="1177" cy="88" r="2"/><circle cx="1226" cy="175" r="3"/><circle cx="807" cy="239" r="2"/><circle cx="1050" cy="62" r="2"/></g></svg>

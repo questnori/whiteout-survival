@@ -1,16 +1,19 @@
-<div align="center">
-
-# Questnori · Whiteout Survival
-
-### New device. Same adventure.
-
-Get past the opening tutorial and reach your account sign-in options.
-
-</div>
+![Questnori — New device. Same adventure.](questnori-cover.svg)
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md)
 
 ---
+
+## From the tutorial to sign-in
+
+<table>
+<tr><th>01 · Follow the required tutorial prompts</th><th>02 · Choose your existing account</th></tr>
+<tr><td align="center"><img src="tutorial-screen.png" alt="Follow the required tutorial prompts" width="280" /></td><td align="center"><img src="signin-screen.png" alt="Choose your existing account" width="280" /></td></tr>
+</table>
+
+<sub>Actual game screens. The skill stops at sign-in; you complete the login.</sub>
+
+![Profile → Settings → Account → Change Account](login-route.svg)
 
 ## Get back to your account
 
